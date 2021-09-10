@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GoldObi, spent most of my years in IT Suopport and looking to pivot into data analysis
+- 👋 Hi, I’m @GoldObi, spent most of my years in IT Support and looking to pivot into data analysis
 - 👀 I’m interested in python and data visualization tools
 - 🌱 I’m currently learning pandas, matplotlib and numpy
 - 💞️ I’m looking to collaborate on anything data and its applications
